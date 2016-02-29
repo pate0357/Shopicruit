@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/classes-82574302df1879698b743d084cef95707a4fb726.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/libs/httpcore-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11393498b38e9695d0850cac26fde5613ae268b9">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/httpcore-4.3-12fd0aac4f6f701b3f68646097c288d30e8cae53.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/gson-2.2.4-c202784ef0c9da0ed5849bee8a37dc5c206ca09f.jar" />
+    </item>
+    <item
+        jar="/Applications/ADT/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f2c1d5de23f9269589b8e689d234a696bafa0ccc.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/classes-a57327d831ff1a4fc3baa56302a9a0c871f6c9cb.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/classes-a701d58ef45bf435969989b3fd25b0b38c95d030.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.17/f417d7f776d1ee5858fc04d9362aa45e9bedd26b/library-1.0.17.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/library-1.0.17-0cf32465f94276ff085d4b0168c73ce14fda46a6.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d68fe245578c67138dbae3e2b8082d22b82988d1.jar" />
+    </item>
+    <item
+        jar="/Users/Harsh/Desktop/shopify/app/libs/httpmime-4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/Users/Harsh/Desktop/shopify/app/build/intermediates/pre-dexed/debug/httpmime-4.3-5846e234a2f5b9b45c7d26b4f9033a2d5136b44e.jar" />
+    </item>
+
+</items>
